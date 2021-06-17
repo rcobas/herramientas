@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/purple_500</item>
+    </style>
+
+    <style name="botones">
+        <item name="android:layout_width">@dimen/grande</item>
+        <item name="android:layout_height">@dimen/grande</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="espacio">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">1dp</item>
+    </style>
+</resources>
